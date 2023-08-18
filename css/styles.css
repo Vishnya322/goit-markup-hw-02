@@ -13,7 +13,6 @@ body {
 }
 
 .top-line {
-border-bottom: 1px solid var(--cornflower, #E7E9FC);
 background: var(--white, #FFF);
 }
 
@@ -34,7 +33,6 @@ span {
         font-style: normal;
         font-weight: 700;
         line-height: 1.16;
-        /* 116.667% */
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
@@ -93,14 +91,14 @@ span {
 
 .button:hover,
 .button:focus {
-        color: #404BBF;
+        background-color: #404BBF;
 }
 .section-title {
 background: #FFF;
 }
 
 .section-non {
-        color: #FFF;
+        color: #2e2f42;
 }
 
 .section-title-item {
@@ -166,7 +164,6 @@ background: #FFF;
 }
 
 .project-card {
-        border: 1px solid var(--cornflower, #E7E9FC);
         background: var(--white, #FFF);
            
 }
