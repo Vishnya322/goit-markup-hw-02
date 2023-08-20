@@ -13,11 +13,11 @@ body {
 }
 
 .top-line {
-background: var(--white, #FFF);
+background: #FFF;
 }
 
-.logo-web {
-    color: var(--iris, #4D5AE5);
+.logo {
+    color: #4D5AE5;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -26,15 +26,9 @@ background: var(--white, #FFF);
         text-transform: uppercase;
 }
 
-span {
-    color: var(--navyblue, #2E2F42);
-        font-family: Raleway;
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 1.16;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+.studio {
+    color: #2E2F42;
+        
 }
 
 .nav-list {
@@ -67,10 +61,10 @@ span {
 }
 
 .top-section {
-    background: var(--navyblue, #2E2F42);
+    background:  #2E2F42;
 }
 .top-section-title {
-        color: var(--white, #FFF);
+        color:  #FFF;
         text-align: center;
         font-size: 56px;
         font-weight: 700;
@@ -84,8 +78,8 @@ span {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        color: var(--white, #FFF);
-        background: var(--iris, #4D5AE5);
+        color: #FFF;
+        background: #4D5AE5;
         cursor: pointer;
 }
 
@@ -95,10 +89,6 @@ span {
 }
 .section-title {
 background: #FFF;
-}
-
-.section-non {
-        color: #ffff;
 }
 
 .section-title-item {
@@ -117,11 +107,11 @@ background: #FFF;
 }
 
 .ourteam-section {
-    background: var(--cloud, #F4F4FD);
+    background: #F4F4FD;
 }
 
 .ourteam-title {
-        color: var(--navyblue, #2E2F42);
+        color:  #2E2F42;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
@@ -131,11 +121,11 @@ background: #FFF;
 }
 
 .teamcard {
-        background: var(--white, #FFF);
+        background:  #FFF;
 }
 
 .teamcard-title {
-        color: var(--navyblue, #2E2F42);
+        color:  #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -143,7 +133,7 @@ background: #FFF;
 }
 
 .teamcard-position {
-        color: var(--slate, #434455);
+        color:  #434455;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -155,7 +145,7 @@ background: #FFF;
 }
 
 .portfolio-header {
-        color: var(--navyblue, #2E2F42);
+        color:  #2E2F42;
         text-align: center;
         font-weight: 700;
         font-size: 36px;
@@ -165,12 +155,12 @@ background: #FFF;
 }
 
 .project-card {
-        background: var(--white, #FFF);
+        background: #FFF;
            
 }
 
 .project-card-title {
-        color: var(--navyblue, #2E2F42);
+        color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2; 
@@ -178,7 +168,7 @@ background: #FFF;
 }
 
 .project-card-text {
-        color: var(--slate, #434455);
+        color:  #434455;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -189,8 +179,8 @@ background: #FFF;
 background: var(--navyblue, #2E2F42);
 }
 
-.studio-footer {
-        color: var(--cloud, #F4F4FD);
+.studio-footer  {
+                color: #F4F4FD;
                 font-family: Raleway;
                 font-size: 18px;
                 font-weight: 700;
@@ -200,7 +190,7 @@ background: var(--navyblue, #2E2F42);
 }
 
 .footer-text {
-        color: var(--cloud, #F4F4FD);
+                color: #F4F4FD;
                 font-size: 16px;
                 font-weight: 400;
                 line-height: 1.5;
